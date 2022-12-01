@@ -1,35 +1,27 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "PYNQ Crowd Counting",
+    subtitle: "Python, OpenCV, Xilinx PYNQ",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Hardware application designed to count people on CCTV footage in real-time",
+    image: "./cctv_gif.gif",
+    link: "https://github.com/conlonj25/Masters_Project_EE595",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Bookshelf",
+    subtitle: "Java, JDBC, MySQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Mock-up web application. Online book retailer",
+    image: "./bookshelf_thumb.png",
+    link: "https://github.com/conlonj25/Bookshelf",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Minecraft Clone",
+    subtitle: "Javascript, JQuery, OSG.JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "In-browser clone of the popular video game",
+    image: "./minecraft_gif.gif",
+    link: "https://conlonj25.github.io/",
   },
 ];
 
@@ -51,10 +43,12 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Python",
+  "Java",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node JS",
+  "MySQL",
+  "Nginx",
+  "AWS",
 ];
