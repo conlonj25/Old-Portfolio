@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Python, OpenCV, Xilinx PYNQ",
     description:
       "Hardware application designed to count people on CCTV footage in real-time",
-    image: "./cctv_gif.gif",
+    image: "./cctv.gif",
     link: "https://github.com/conlonj25/Masters_Project_EE595",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Java, JDBC, MySQL",
     description:
       "Mock-up web application. Online book retailer",
-    image: "./bookshelf_thumb.png",
+    image: "./bookshelf.png",
     link: "https://github.com/conlonj25/Bookshelf",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Javascript, JQuery, OSG.JS",
     description:
       "In-browser clone of the popular video game",
-    image: "./minecraft_gif.gif",
+    image: "./minecraft.gif",
     link: "https://conlonj25.github.io/",
   },
 ];
@@ -47,7 +47,7 @@ export const skills = [
   "Java",
   "JavaScript",
   "React",
-  "Node JS",
+  "Tailwind CSS",
   "MySQL",
   "Nginx",
   "AWS",
